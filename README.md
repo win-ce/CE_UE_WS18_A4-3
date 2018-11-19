@@ -1,18 +1,12 @@
-# CE_UE_WS18_A4-3
-Dieses Repository dient als Basis fÃ¼r die Aufgabe 4.3 in der Ãœbung CE an der JKU in Wintersemester 2018
+*Linz* ist die Landeshauptstadt von Oberösterreich und mit 203.012 Einwohnern (Stand 1. Jänner 2017)[2] nach Wien und Graz die drittgrößte Stadt Österreichs und das Zentrum des mit 771.695[3] Menschen zweitgrößten Ballungsraumes der Alpenrepublik.
 
-Wenn Sie diese Datei gefunden haben, haben Sie erfolgreich auf das Repository zugegriffen. Bevor Sie Ã„nderungen vornehmen, erstellen Sie bitte einen Fork in Ihren Account (GitHub Web-Interface: Button rechts oben) und klonen das geforkte Repository auf Ihren Rechner.
+Die Stadt an der Donau hat eine Fläche von 96,048 km² und ist Zentrum des oberösterreichischen Zentralraums. Als Statutarstadt ist sie sowohl Gemeinde als auch politischer Bezirk mit Sitz der benachbarten Bezirkshauptmannschaften von Linz-Land und Urfahr-Umgebung.
 
-## Aufgabe
-Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen Sie folgende Aufgaben:
-1. Erstellen Sie ein Verzeichnis, dessen Name ihre Matrikelnummer (8 Ziffern, mit fÃ¼hrendem k) ist.
-2. Legen Sie in diesem Verzeichnis eine Datei mit dem Namen "README.md" an und bearbeiten Sie diese mit einem Plain-Text-Editor. Unter Verwendung der Markdown-Syntax beschreiben Sie kompakt (max. 500 WÃ¶rter) den Ort, in dem Sie wohnen. Texte dÃ¼rfen aus anderen Quellen Ã¼bernommen werden, sofern Sie diese in Ihrer Datei verlinken. 
-3. Committen Sie alle Ã„nderungen in ihr lokales Repository.
-4. Erstellen Sie nun einen Branch mit dem Namen "revision".
-5. Checken Sie diesen Branch aus. 
-6. Binden Sie nun in ihr README.md mindestens ein Bild ein, dass Sie ebenfalls im Repository ablegen. Achten Sie bei der Ãœbernahme von Bildern auf lizenzrechtliche Fragen (nur Bilder unter freier Lizenz oder selbst gemachte Bilder verwenden).
-7. Committen Sie erneut alle Ã„nderungen.
-8. Mergen Sie nun den Branch "revision" mit dem ursprÃ¼nglichen Branch (Ã¼blicherweise: "master"). LÃ¶sen Sie dabei etwaige Konflikte so auf, dass die Ã„nderungen aus dem Branch "revision" Ã¼bernommen werden.
-9. Pushen Sie ihr lokales Repository nun zu GitHub.
+Nach dem Ende des Zweiten Weltkriegs, 1945, hatte Linz lange den Ruf einer staubigen Stahlstadt, den sie dem größten Arbeitgeber, den Stahlwerken der Voestalpine AG, verdankte. Doch durch verbesserten Umweltschutz und zahlreiche Initiativen im Kulturbereich, beispielsweise Veranstaltungen wie die Linzer Klangwolke, das Brucknerfest, das Pflasterspektakel und den Prix Ars Electronica bzw. das Ars-Electronica-Festival, gewinnt die Stadt sukzessive ein neues Image. Seit 2004 wird jährlich das Filmfestival Crossing Europe veranstaltet. Linz konnte sich – zuletzt mit dem 2013 eröffneten neuen Musiktheater am Volksgarten, einem Landestheater, – als Kulturstadt positionieren, obwohl Strukturen der alten Industriestadt ebenso wie ländliche Lebensformen nach wie vor sichtbar sind.
 
-Die Anweisungen zum weiteren Vorgehen finden Sie in der Ãœbungsangabe.
+Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste bekannte Tortenrezept der Welt gilt. 
+
+![Katze](https://github.com/KernHub/CE_UE_WS17_A4-2/blob/master/k01355585/kitty.jpg)
+
+[Quelle](https://de.wikipedia.org/wiki/Linz)
+
