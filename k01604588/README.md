@@ -20,4 +20,4 @@ Quelle: [Linz auf Wikipedia](https://de.wikipedia.org/wiki/Linz)
 # Bild
 Ein Sonnenaufgang am Grand Canyon.
 
-[alt text](grand_canyon.jpg "Sonnenaufgang Grand Canyon")
+![alt text](grand_canyon.jpg "Sonnenaufgang Grand Canyon")
