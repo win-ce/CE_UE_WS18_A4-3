@@ -16,3 +16,8 @@ Von den rund 96 km² Stadtfläche sind 29,27 % Grünland, 17,95 % Wald, 6,39 % G
 Der sowohl einwohner- als auch flächenmäßig größte statistische Bezirk war das bereits erwähnte Ebelsberg im Süden der Stadt mit 25,81 km² und rund 17.421 Einwohnern. Der zweitgrößte und zugleich einwohnerschwächste Stadtteil und statistische Bezirk war St. Peter. Er hatte auf 9,13 km² nur 377 Einwohner, was allerdings darauf zurückzuführen war, dass sich auf dem Gebiet der abgetragenen, ehemals eigenständigen Gemeinde und des ehemaligen Bezirks, fast ausschließlich Industriegebiet befindet, wovon die voestalpine den meisten Platz beansprucht (seit Anfang 2014 Industriegebiet-Hafen).[21] Der flächenmäßig kleinste statistische Bezirk war das 45,6 Hektar große Altstadtviertel. 
 
 Quelle: [Linz auf Wikipedia](https://de.wikipedia.org/wiki/Linz)
+
+# Bild
+Ein Sonnenaufgang am Grand Canyon.
+
+[alt text](grand_canyon.jpg "Sonnenaufgang Grand Canyon")
