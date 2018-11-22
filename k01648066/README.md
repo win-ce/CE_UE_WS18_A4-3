@@ -15,4 +15,6 @@ Some advantages of living here:
 * The community is remarkably united. Foodsharings and other events happen often
 * The administration is very considerate
 
+![Image](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OiIJSXEvbNv71mh0rwwSPQHaE7%26pid%3D15.1&f=1)
+
 I can only recommend this place. If you would like to know more, look at their [website](https://www.esh.jku.at)
