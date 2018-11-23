@@ -24,3 +24,6 @@ Linz ist die Landeshauptstadt von Oberösterreich und mit 204.846 Einwohnern (St
 Die Stadt an der Donau hat eine Fläche von 95,98 km² und ist Zentrum des oberösterreichischen Zentralraums. Als Statutarstadt ist sie sowohl Gemeinde als auch politischer Bezirk; außerdem Sitz der benachbarten Bezirkshauptmannschaften von Linz-Land und Urfahr-Umgebung.
 
 Linz. (2018, November 21). Retrieved from https://de.wikipedia.org/wiki/Linz
+
+![Linz](https://upload.wikimedia.org/wikipedia/commons/a/ab/Blick_über_Linz_von_der_Franz-Josefs-Warte.jpg "Linz")
+
