@@ -16,3 +16,14 @@ Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen
 9. Pushen Sie ihr lokales Repository nun zu GitHub.
 
 Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+
+# Heimatort
+
+Linz ist die Landeshauptstadt von Oberösterreich und mit 204.846 Einwohnern (Stand 1. Jänner 2018) nach Wien und Graz die drittgrößte Stadt Österreichs und das Zentrum des mit 789.811 Menschen zweitgrößten Ballungsraumes der Alpenrepublik.
+
+Die Stadt an der Donau hat eine Fläche von 95,98 km² und ist Zentrum des oberösterreichischen Zentralraums. Als Statutarstadt ist sie sowohl Gemeinde als auch politischer Bezirk; außerdem Sitz der benachbarten Bezirkshauptmannschaften von Linz-Land und Urfahr-Umgebung.
+
+Linz. (2018, November 21). Retrieved from https://de.wikipedia.org/wiki/Linz
+
+![Linz](https://upload.wikimedia.org/wikipedia/commons/a/ab/Blick_über_Linz_von_der_Franz-Josefs-Warte.jpg "Linz")
+
