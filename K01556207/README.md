@@ -17,14 +17,6 @@ das Ars-Electronica-Festival, gewinnt die Stadt sukzessive ein neues Image. Seit
 veranstaltet. Linz konnte sich – zuletzt mit dem 2013 eröffneten neuen Musiktheater am Volksgarten, einem Landestheater, 
 – als Kulturstadt positionieren, obwohl Strukturen der alten Industriestadt ebenso wie ländliche Lebensformen nach wie vor sichtbar sind.
 
-Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste bekannte Tortenrezept der Welt gilt.
-
-Linz wurde für 2009, gemeinsam mit der litauischen Hauptstadt Vilnius, zur Kulturhauptstadt Europas auserkoren 
-(siehe Linz 2009 – Kulturhauptstadt Europas). Seit 1. Dezember 2014 ist Linz als City of Media Arts Mitglied des 
-Creative Cities Networks (UCCN) der UNESCO.[4] Diesen Titel erhalten Städte, die durch die Förderung und erfolgreiche 
-Integration von Medienkunst das urbane Leben bereichern und die Zivilgesellschaft in diese elektronischen Kunstformen 
-einbindet.[5] Der Titel ist sowohl eine Auszeichnung als auch ein Auftrag für die stärkere Positionierung der Medienkunst in Linz.
-
 Ziel ist daher, die kulturelle Vielfalt aufrechtzuerhalten und darzustellen. Auch nach dem Jahr als Kulturhauptstadt 
 soll die Internationalisierung weitergeführt und die Netzwerke ausgebaut werden. Das Netzwerk der Creative Cities umfasst 
 die Bereiche Literatur, Film, Musik, Handwerk und Volkskunst, Design, Gastronomie sowie Medienkunst.[6] Die insgesamt 69 
