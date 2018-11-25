@@ -28,6 +28,9 @@ Creative Cities Netzwerk einbringen und als „kreatives Zentrum“ im internati
 zählen auch Enghien-les Bains, Lyon, Sapporo, Dakar, Gwangju, Tel Aviv-Jaffa und York zu den „Cities of Media Arts“.[8]
 
 Quelle: https://de.wikipedia.org/wiki/Linz
-Foto Quelle: Flickr.com
+Fotos Quelle: Flickr.com
 
 ![alt text](https://c2.staticflickr.com/4/3829/13584070243_f77de4f3bd_c.jpg "Logo Title Text 1")
+
+![](images/linz.jpg)
+
