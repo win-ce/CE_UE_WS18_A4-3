@@ -13,3 +13,5 @@ Linz liegt im östlichen Oberösterreich und erstreckt sich auf beiden Seiten de
 
 
 Quellle aus https://de.wikipedia.org/wiki/Linz
+
+![](fotos/foto.jpg)
