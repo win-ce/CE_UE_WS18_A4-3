@@ -3,4 +3,3 @@ Der Ort in dem ich wohne heißt Wels. Er befindet sich in Oberösterreich in der
 
 + https://www.wels.at
 
-![HausvonNikolaus](Unbenanntes_Werk.jpg)
