@@ -15,3 +15,5 @@ Ein besonderes Kennzeichen dieser Diskussionen ist, dass diese selten auf Fakten
 Eggendorf hat eine Feuerwehr, eine Musikkapelle und diverse Vereine die im Rahmen der katholischen Kirche agieren.
 Einen Fussballverein gibt es in Eggendorf nicht, jedoch im 5 Kilometer entfernten Nachbarort Allhaming. 
 In diesem spielen auch die fussballbegeisterten Eggendorfer.
+
+![Eggendorf](https://eggendorf.spooe.at/wp-content/uploads/sites/240/2015/08/SPOE_ZeitungTitelblatt2-500x328.jpg "Eggendorf")
