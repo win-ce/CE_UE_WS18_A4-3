@@ -31,3 +31,11 @@ Industriestadt zum Teil noch sichtbar sind. Dazu passend
 weist Linz als Universitätsstadt mit mehreren 
 Universitäten auch zahlreiche Studienangebote im 
 künstlerischen und kulturellen Bereich auf.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptplatz_Linz_September_2013.jpg/2560px-Hauptplatz_Linz_September_2013.jpg)
+*von Felix König
+Hauptplatz Linz September 2013  
+CC BY 3.0*
+[Link zum Bild](https://upload.wikimedia.org/wikipedia/commons/9/95/Hauptplatz_Linz_September_2013.jpg)
+
+*Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Linz*)
