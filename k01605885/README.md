@@ -22,3 +22,8 @@ Schwertberg ist eine kleine Gemeinde im unteren Mühlviertel mit etwa 5500 Einwo
 Firmen. Auch heute sind in Schwertberg Unternehmen wie etwa ENGEL Austria, Praher, Steinbach, Merckens usw. angesiedelt. Zur Freizeitgestaltung gibt es einen kleinen Park, eine Freizeitwiese,
 mehrere Lokale und Gasthäuser und schöne Wanderwege entlang der Aist. Die Gemeinde wird unterteilt in 4 Ortsteile. Diese sind Poneggen, Schwertberg Zentrum, Winden-Windegg und Aisting Furth.
 Derzeit ist Herr Oberleitner Max (ÖVP) Bürgermeister. 
+
+## Wappen von Schwertberg
+![Wappen](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wappen_at_schwertberg.png)
+
+
