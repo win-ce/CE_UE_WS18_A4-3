@@ -27,6 +27,11 @@ Heute ist Linz das zweitgrößte Wirtschaftszentrum Österreichs. Betriebe von W
 Mit dem Ars Electronica Center (1996), dem Lentos Kunstmuseum (2003) sowie der 2005 erfolgten Wahl zur Europäischen Kulturhauptstadt 2009 erregte die oberösterreichische Landeshauptstadt besonderes Aufsehen.
 Als "Friedensstadt" ist Linz bereit, jeglicher Art von aggressivem Extremismus gegenzusteuern.
 
+## Bild
+
+![alt text](file://pfaender.jpg "Nicht in Linz")
+
 ### Quellen
 [1](https://de.wikipedia.org/wiki/Linz)
 [2](https://www.linz.at/geschichte/de/1131.asp)
+
