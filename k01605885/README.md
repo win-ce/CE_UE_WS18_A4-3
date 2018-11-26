@@ -16,3 +16,14 @@ Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen
 9. Pushen Sie ihr lokales Repository nun zu GitHub.
 
 Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+
+##Schwertberg
+Schwertberg ist eine kleine Gemeinde im unteren Mühlviertel mit etwa 5500 Einwohnern. Die Gemeinde liegt an einem Fluss namens Aist und war seit je her ein Standort für einige 
+Firmen. Auch heute sind in Schwertberg Unternehmen wie etwa ENGEL Austria, Praher, Steinbach, Merckens usw. angesiedelt. Zur Freizeitgestaltung gibt es einen kleinen Park, eine Freizeitwiese,
+mehrere Lokale und Gasthäuser und schöne Wanderwege entlang der Aist. Die Gemeinde wird unterteilt in 4 Ortsteile. Diese sind Poneggen, Schwertberg Zentrum, Winden-Windegg und Aisting Furth.
+Derzeit ist Herr Oberleitner Max (ÖVP) Bürgermeister. 
+
+## Wappen von Schwertberg
+![Wappen](https://upload.wikimedia.org/wikipedia/commons/e/e9/Wappen_at_schwertberg.png)
+
+
