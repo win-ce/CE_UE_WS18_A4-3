@@ -21,4 +21,7 @@ Bekannt ist auch das oberhalb der Stadt gelegene Partisanendenkmal Banj Brdo ode
 Im nördlichen Teil der Stadt in Zaluzani befindet sich die einzige Rennstrecke Bosnien-Herzegowinas. Es werden zwar oft Rennen ausgetragen, doch sie sind von geringer Bedeutung. Momentan sucht man nach Investoren, um die Rennstrecke und ihre Infrastruktur auf internationalen Standard auszubauen.
 
 
+Ein Bild ![](https://github.com/majadusanic/CE_UE_WS18_A4-3/blob/master/k01256561/Finito-M.jpg)
+
+
 [Quelle](https://de.wikipedia.org/wiki/Banja_Luka)
