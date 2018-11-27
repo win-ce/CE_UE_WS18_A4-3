@@ -56,3 +56,9 @@ Die *VÖEST-Brücke* gibt es seit 1972.
 Auch über eine mögliche vierte Brücke wird diskutiert.
  
 Quelle: https://de.wikipedia.org/wiki/Urfahr
+
+
+
+![LinzUrfahr](Linz_Urfahr_pic.jpg)
+
+Quelle Bild: https://pixabay.com/de/linz-gebäude-nacht-architektur-853946/
