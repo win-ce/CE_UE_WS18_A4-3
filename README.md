@@ -1,18 +1,21 @@
-# CE_UE_WS18_A4-3
-Dieses Repository dient als Basis für die Aufgabe 4.3 in der Übung CE an der JKU in Wintersemester 2018
+#Steyr
+Steyr ist eine Stadt in Oberösterreich und nach Linz und Wels die drittgrößte Stadt des Bundeslandes und die zwölftgrößte Stadt Österreichs. Die Statutarstadt am Zusammenfluss von Enns und Steyr ist Sitz der Bezirkshauptmannschaft des Bezirkes Steyr-Land.
 
-Wenn Sie diese Datei gefunden haben, haben Sie erfolgreich auf das Repository zugegriffen. Bevor Sie Änderungen vornehmen, erstellen Sie bitte einen Fork in Ihren Account (GitHub Web-Interface: Button rechts oben) und klonen das geforkte Repository auf Ihren Rechner.
+Bis vor kurzem war einer der berühmtesten Bürger der Neuzeit Franz Josef Hartlauer.
+Mittlerweile hat \- zumindest kurzfristig \- Franz\-Josef Hingerl Herrn Hartlauer in der öffentlichen Wahrnehmung den Rang abgelaufen. Es ist jener schlitzohrige Magistratsbedienstete, der \- ohne, daß es wochenlang aufgefallen wäre -\ seine Initialen in das Steyrer Pflaster verewigt hatte.
+Tja, es fiel doch auf und dann folgte ein unrühmlicher Versuch, die Buchstaben mit den Anfangsbuchstaben von Geschäften zu rechtfertigen:
 
-## Aufgabe
-Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen Sie folgende Aufgaben:
-1. Erstellen Sie ein Verzeichnis, dessen Name ihre Matrikelnummer (8 Ziffern, mit führendem k) ist.
-2. Legen Sie in diesem Verzeichnis eine Datei mit dem Namen "README.md" an und bearbeiten Sie diese mit einem Plain-Text-Editor. Unter Verwendung der Markdown-Syntax beschreiben Sie kompakt (max. 500 Wörter) den Ort, in dem Sie wohnen. Texte dürfen aus anderen Quellen übernommen werden, sofern Sie diese in Ihrer Datei verlinken. 
-3. Committen Sie alle Änderungen in ihr lokales Repository.
-4. Erstellen Sie nun einen Branch mit dem Namen "revision".
-5. Checken Sie diesen Branch aus. 
-6. Binden Sie nun in ihr README.md mindestens ein Bild ein, dass Sie ebenfalls im Repository ablegen. Achten Sie bei der Übernahme von Bildern auf lizenzrechtliche Fragen (nur Bilder unter freier Lizenz oder selbst gemachte Bilder verwenden).
-7. Committen Sie erneut alle Änderungen.
-8. Mergen Sie nun den Branch "revision" mit dem ursprünglichen Branch (üblicherweise: "master"). Lösen Sie dabei etwaige Konflikte so auf, dass die Änderungen aus dem Branch "revision" übernommen werden.
-9. Pushen Sie ihr lokales Repository nun zu GitHub.
+* H für die Bäckerei Hohlrieder
+* I für die Pizzeria Imperial
+* N für das Schuhgeschäft Nanu
+* G für den Juwelier Gröger
+* E für das E-Banking der Oberbank (wtf\!)
+* R für das Rathaus
+* L für das Obstgeschäft Leopold
 
-Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+Tja, leider gibt es in meiner schönen Heimatstadt keine Erste Bank, sondern eine Oberbank, sonst wäre die Erläuterung für die Buchstaben ja schon beinahe glaubwürdig gewesen.
+
+So viel Publicity hatte Steyr schon lange nicht mehr. Nun gibt es auch schon viele, nicht ernst gemeinte, Ratschläge für eine neue Pflasterung:
+![Neue Pflasterung Steyr](NeuePflasterungSteyr.jpg)
+
+Werbung in eigener Sache: http://www.sulzau.at - Selbstversorgerhütte für Feiern mitten im Wald
