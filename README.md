@@ -17,3 +17,5 @@ Tja, leider gibt es in meiner schönen Heimatstadt keine Erste Bank, sondern ein
 
 So viel Publicity hatte Steyr schon lange nicht mehr. Nun gibt es auch schon viele, nicht ernst gemeinte, Ratschläge für eine neue Pflasterung:
 ![Neue Pflasterung Steyr](NeuePflasterungSteyr.jpg)
+
+Werbung in eigener Sache: http://www.sulzau.at - Selbstversorgerhütte für Feiern mitten im Wald
