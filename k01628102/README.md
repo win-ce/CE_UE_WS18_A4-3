@@ -10,5 +10,8 @@ Fahrraddiebstahl interessiert hier keinen mehr.
 
 >Gib jedem Tag die Chance, der schönste deines Lebens zu werden.
 Mark Twain
+
+![Image](picasso.png)
+
 ---
 
