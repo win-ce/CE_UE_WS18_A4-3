@@ -15,4 +15,7 @@ Von jeher war Helfenberg als Ort der Textilerzeugung und Weberei bekannt. Im Zug
 
 Quelle: [Wikipedia - Helfenberg](https://de.wikipedia.org/wiki/Helfenberg)
 
+# Bild
+Winterliches Helfenberg
 
+![Alt-Text](hbg.jpg "Helfenberg")
