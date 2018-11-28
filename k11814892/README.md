@@ -18,4 +18,5 @@ Der Gemeinderat besteht aus 36 Mitgliedern. Nach der Gemeinderatswahl 2015 hat:
 
 Sie können mehr Information unter <https://de.wikipedia.org/wiki/Wels_(Stadt)> bekommen.
 
-![Image] (https://pixabay.com/photo-3732827/)
+![]
+(https://pixabay.com/photo-3732827/)
