@@ -34,3 +34,8 @@ Gallneukirchen ist von den Gemeinden Alberndorf in der Riedmark, Engerwitzdorf u
 Gallneukirchen ist Mitglied im Verein für regionale Entwicklung Gusental, dem fünf weitere Gemeinden entlang der Gusen angehören. Die Gründung eines Interkommunalen Betriebsansiedlungsgebiets in Alberndorf ist gemeinsam mit einigen der Nachbargemeinden geplant.
 
 *Text und Links wurden übernommen von [Wikipedia](https://de.wikipedia.org/wiki/Gallneukirchen)*
+
+
+
+![Kirchturm Gallneukirchen](Gallneukirchner_Kirchturm.jpg)
+*Kirchturm Gallneukirchen. (Bild von [Klemens Doppler](https://en.wikipedia.org/wiki/Gallneukirchen#/media/File:Gallneukirchner_Kirchturm.jpg) under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) License.)* 
