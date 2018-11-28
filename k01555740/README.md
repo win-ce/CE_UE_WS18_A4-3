@@ -16,4 +16,4 @@ Die Stadt wird inoffiziell auch als Linz an der Donau bezeichnet, um nicht mit d
 
 ![Linz Bild](https://upload.wikimedia.org/wikipedia/commons/7/77/Linz_view_2.jpg "Linz")
 
-![Ein Test](C:\Users\lukas\Documents\GitHub\CE_UE_WS18_A4-3\k01555740 "Test Bild")
+![Ein Test](C:\Users\lukas\Documents\GitHub\CE_UE_WS18_A4-3\k01555740\Linz_view_2 "Test Bild")
