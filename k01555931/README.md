@@ -1,16 +1,23 @@
 # Gampern
 
-Gampern ist eine Gemeinde in Oberösterreich im Bezirk Vöcklabruck im Hausruckviertel mit 2927 Einwohnern (Stand 1. Jänner 2018). Der zuständige Gerichtsbezirk ist Vöcklabruck.
+Gampern ist eine Gemeinde in Oberösterreich im Bezirk Vöcklabruck im Hausruckviertel mit 2927 Einwohnern (Stand 1. Jänner 2018).
+Der zuständige Gerichtsbezirk ist Vöcklabruck.
 
 ## Geografie
 
-Gampern liegt auf 509 m Höhe im Hausruckviertel. Die Ausdehnung beträgt von Nord nach Süd 5,9 km, von West nach Ost 6,8 km. Die Gesamtfläche beträgt 26,1 km². 19,2 % der Fläche sind bewaldet, 71,3 % der Fläche sind landwirtschaftlich genutzt.
+Gampern liegt auf 509 m Höhe im Hausruckviertel. 
+Die Ausdehnung beträgt von Nord nach Süd 5,9 km, von West nach Ost 6,8 km. Die Gesamtfläche beträgt 26,1 km². 19,2 % der Fläche sind bewaldet, 71,3 % der Fläche sind landwirtschaftlich genutzt.
+
+![Alt text](k01555931/aussicht-baume-berge-618833.jpg)
 
 ## Geschichte
 
-Gampern wird zum ersten Mal um das Jahr 800 unter dem Namen Campara im Traditionsbuch von Mondsee genannt. Seit 1143 war es als Filiale von Vöcklamarkt dem Collegiat-Stift Mattsee inkorporiert, bis es 1900 eine selbständige Pfarre wurde. Dem Stift Mattsee verblieb das Patronatsrecht.
+Gampern wird zum ersten Mal um das Jahr 800 unter dem Namen Campara im Traditionsbuch von Mondsee genannt. 
+Seit 1143 war es als Filiale von Vöcklamarkt dem Collegiat-Stift Mattsee inkorporiert, bis es 1900 eine selbständige Pfarre wurde. 
+Dem Stift Mattsee verblieb das Patronatsrecht.
 
-Ursprünglich im Ostteil des Herzogtums Bayern liegend, gehörte der Ort seit dem 12. Jahrhundert zum Herzogtum Österreich. Seit 1490 wird er dem Fürstentum Österreich ob der Enns zugerechnet.
+Ursprünglich im Ostteil des Herzogtums Bayern liegend, gehörte der Ort seit dem 12. Jahrhundert zum Herzogtum Österreich. 
+Seit 1490 wird er dem Fürstentum Österreich ob der Enns zugerechnet.
 
 Während der Napoleonischen Kriege war der Ort mehrfach besetzt.
 
