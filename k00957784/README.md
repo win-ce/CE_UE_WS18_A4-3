@@ -14,3 +14,5 @@ Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte
 Von jeher war Helfenberg als Ort der Textilerzeugung und Weberei bekannt. Im Zuge der Industrialisierung errichteten die Gebrüder Simonetta aus Mailand 1843 eine Leinenweberfabrik, die zu Hochzeiten 1200 Personen beschäftigte. 
 
 Quelle: [Wikipedia - Helfenberg](https://de.wikipedia.org/wiki/Helfenberg)
+
+
