@@ -17,5 +17,5 @@ Die Gemeindefarben sind Grün-Weiß-Grün.
 * Burgruine Windegg: im 12. Jahrhundert errichtet, in den 1980er Jahren in Privatinitiative renoviert (Verein Arbeitskreis Windegg); nördlich des Ortes
 
 
-
+![Wanderweg_Schwertberg](https://github.com/aistleithnera/CE_UE_WS18_A4-3/blob/master/k01607605/Wanderweg_Schwertberg.jpg)
 
