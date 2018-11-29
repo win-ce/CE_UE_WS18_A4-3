@@ -17,7 +17,7 @@ Die Gemeindefarben sind Grün-Weiß-Grün.
 * Burgruine Windegg: im 12. Jahrhundert errichtet, in den 1980er Jahren in Privatinitiative renoviert (Verein Arbeitskreis Windegg); nördlich des Ortes
 
 
-![Wanderweg in Schwertberg](https://github.com/aistleithnera/CE_UE_WS18_A4-3/blob/master/k01607605/Wanderweg_Schwertberg.jpg)
+![Wanderweg in Schwertberg](C:\Users\Anwender\Documents\GitHub\CE_UE_WS18_A4-3\k01607605\Wanderweg_Schwerberg.jpg)
 
 [Quelle](https://de.wikipedia.org/wiki/Schwertberg)
 
