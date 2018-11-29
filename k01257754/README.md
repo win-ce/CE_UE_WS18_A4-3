@@ -35,6 +35,7 @@ Gemeinsam mit seinen Nachbargemeinden gehört Leonding zum zweitgrößten Ballun
 ---
 Quelle: [Link](https://de.wikipedia.org/wiki/Leonding)
 
+{{bild by User H. Raab }}
 
 
 *Leonding zur Weihnachtszeit*
