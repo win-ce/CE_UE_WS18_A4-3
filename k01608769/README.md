@@ -12,6 +12,7 @@ Die Gesamtfläche beträgt 27,8 km².
 * Kefermarkter Flügelaltar
 
 **Öffentliche Einrichtungen und Bildung**:
+
 Im Ort stehen ein Kindergarten und eine Volksschule zur Verfügung. 
 Zusätzlich besteht eine Bücherei. Weiters gibt es einen Allgemeinmediziner in der Gemeinde.
 Im Gemeindegebiet existiert die Freiwillige Feuerwehr Kefermarkt.
