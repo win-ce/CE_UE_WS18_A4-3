@@ -4,3 +4,5 @@ Die Stadt an der Donau hat eine Fläche von 95,98[4] km² und ist Zentrum des ober
 
 [Source](https://de.wikipedia.org/wiki/Linz)
 
+Picture(selbst gemacht):
+![Linz](StudentenheimLinz.jpeg) 
