@@ -16,8 +16,15 @@ Im Ort stehen ein Kindergarten und eine Volksschule zur Verfügung.
 Zusätzlich besteht eine Bücherei. Weiters gibt es einen Allgemeinmediziner in der Gemeinde.
 Im Gemeindegebiet existiert die Freiwillige Feuerwehr Kefermarkt.
 
-Quelle: 
-https://de.wikipedia.org/wiki/Kefermarkt
+**Nachbargemeinden**:
+* Freistadt
+* Neumarkt
+* Lasberg
+* Gutau
+* Pregarten
+
+*Quelle: 
+https://de.wikipedia.org/wiki/Kefermarkt*
 
 ![kefermarkt](kefermarkt.JPG)
 
