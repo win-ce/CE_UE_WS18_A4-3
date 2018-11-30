@@ -31,3 +31,6 @@ Wels hat etwa 40.000 Beschäftigte in über 4000 Unternehmen, wobei 22.600 Mensc
 
 ##Referenz
 [I'm an inline-style link](https://de.wikipedia.org/wiki/Wels_(Stadt))
+
+##Bild
+![alt text](/Users/huzur/Desktop/GitHub/CE_UE_WS18_A4-3/K01455488/architecture-austria-buildings-161039.png "Picture Austria")
