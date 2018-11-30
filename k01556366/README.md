@@ -6,3 +6,6 @@ Schärding liegt auf 313 m Höhe im Innviertel. Die Ausdehnung beträgt von Nord
 
 Der Inn bildet die Grenze zum benachbarten Freistaat Bayern. Direkt gegenüber liegt auf der bayrischen Seite des Inns die Gemeinde Neuhaus am Inn, die über zwei Innbrücken erreichbar ist.
 
+Quelle: https://de.wikipedia.org/wiki/Sch%C3%A4rding
+
+![](Bild/schaerding.jpg)
