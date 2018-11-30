@@ -8,8 +8,8 @@ Die Gesamtfläche beträgt 27,8 km².
 7,6 % der Fläche sind bewaldet und 81,5 % der Fläche landwirtschaftlich genutzt.
 
 **Sehenswürdigkeiten**:
-Schloss Weinberg
-Kefermarkter Flügelaltar
+* Schloss Weinberg
+* Kefermarkter Flügelaltar
 
 **Öffentliche Einrichtungen und Bildung**:
 Im Ort stehen ein Kindergarten und eine Volksschule zur Verfügung. 
