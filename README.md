@@ -1,18 +1,16 @@
-# CE_UE_WS18_A4-3
-Dieses Repository dient als Basis für die Aufgabe 4.3 in der Übung CE an der JKU in Wintersemester 2018
+# k01355853
 
-Wenn Sie diese Datei gefunden haben, haben Sie erfolgreich auf das Repository zugegriffen. Bevor Sie Änderungen vornehmen, erstellen Sie bitte einen Fork in Ihren Account (GitHub Web-Interface: Button rechts oben) und klonen das geforkte Repository auf Ihren Rechner.
 
-## Aufgabe
-Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen Sie folgende Aufgaben:
-1. Erstellen Sie ein Verzeichnis, dessen Name ihre Matrikelnummer (8 Ziffern, mit führendem k) ist.
-2. Legen Sie in diesem Verzeichnis eine Datei mit dem Namen "README.md" an und bearbeiten Sie diese mit einem Plain-Text-Editor. Unter Verwendung der Markdown-Syntax beschreiben Sie kompakt (max. 500 Wörter) den Ort, in dem Sie wohnen. Texte dürfen aus anderen Quellen übernommen werden, sofern Sie diese in Ihrer Datei verlinken. 
-3. Committen Sie alle Änderungen in ihr lokales Repository.
-4. Erstellen Sie nun einen Branch mit dem Namen "revision".
-5. Checken Sie diesen Branch aus. 
-6. Binden Sie nun in ihr README.md mindestens ein Bild ein, dass Sie ebenfalls im Repository ablegen. Achten Sie bei der Übernahme von Bildern auf lizenzrechtliche Fragen (nur Bilder unter freier Lizenz oder selbst gemachte Bilder verwenden).
-7. Committen Sie erneut alle Änderungen.
-8. Mergen Sie nun den Branch "revision" mit dem ursprünglichen Branch (üblicherweise: "master"). Lösen Sie dabei etwaige Konflikte so auf, dass die Änderungen aus dem Branch "revision" übernommen werden.
-9. Pushen Sie ihr lokales Repository nun zu GitHub.
+Ich wohne in einem Stadtteil von Linz, naemlich Linz Urfahr. 
 
-Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+Urfahr ist ein noerdlich der Donau gelegener Stadtteil von Linz in Oberoesterreich. 
+Er grenzt an die Stadtteile Poestlingberg und St. Magdalena sowie suedlich der Donau an Froschberg, Innere Stadt und Kaplanhof. Urfahr war bis zu seiner Eingemeindung nach Linz im Jahr 1919 eine eigene Stadtgemeinde.
+Umgangssprachlich werden oft alle noerdlich der Donau gelegenen Stadtteile von Linz, also auch Poestlingberg und St. Magdalena, zu Urfahr gezaehlt.
+
+
+Quelle Link: https://de.wikipedia.org/wiki/Urfahr
+
+
+![Linz](linz.jpg)
+
+
