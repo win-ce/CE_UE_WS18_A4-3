@@ -18,3 +18,5 @@ Die Gemeindefarben sind Grün-Weiß-Grün.
 
 [Quelle](https://de.wikipedia.org/wiki/Schwertberg)
 
+![Wanderweg Schwertberg](https://github.com/aistleithnera/CE_UE_WS18_A4-3/blob/master/k01607605/Wanderweg_Schwertberg.jpg)
+
