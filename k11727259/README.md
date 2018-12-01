@@ -26,4 +26,6 @@ Fisching hatte 1.996, Raffelstetten 850 und Ipfdorf 216 Einwohner.[2]
 * Ipfdorf (353)
 * Raffelstetten (1013)
 
+![image](https://upload.wikimedia.org/wikipedia/commons/3/32/AUT_Asten_COA.jpg "Wappen")
+
 *Quelle: https://de.wikipedia.org/wiki/Asten*  
