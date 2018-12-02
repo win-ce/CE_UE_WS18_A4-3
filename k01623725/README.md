@@ -22,5 +22,9 @@ Seit 1918 gehört der Ort zum Bundesland Oberösterreich.
 Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau.
 Nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
 
+## Wappen
+![Wappen](https://github.com/MagicGuest/CE_US_WS18A4/k01623725/Wappen_St_Marien)
+
+
 ***
 [Quelle](https://de.wikipedia.org/wiki/St._Marien)
