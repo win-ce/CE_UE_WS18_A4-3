@@ -12,10 +12,10 @@ An diesem Ort, wo ich seit meiner Geburt wohne, gibt es
 
 Was mir an Kleinmünchen so gefällt ist, dass wir zwei kleine Parks und einen Wasserwald haben, wo man den ganzen Schulstress einfach entkommen kann. Somit muss ich auch nicht extra weit rausfahren, um meine Hobbys wie Fotografie nachzugehen. Darunter sind ein paar meiner Fotos zu sehen:
 
-![Foto]
+![]  
 (Bee_and_Flower.jpg)
 
-![Foto]
+![]  
 (Sis_holding_Leaf.jpg)
 
 Kleinmünchen hat auch eine eigene [Website](http://www.klikk.at/).
