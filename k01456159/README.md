@@ -1,5 +1,7 @@
 # Über Baumgartenberg
 
+![Image](http://www.baumgartenberg.at/images/stories/writer/Zahlen--Fakten-zu-Baumgartenberg_A597/Landschiftsbild-Ort-BGB.jpg)
+
 ## Zahlen & Fakten
 
 In Baumgartenberg finden ca. 693 Personen Beschäftigung. Im Jahr 1999: 30 Landwirte und 44 Nebenerwerbslandwirte.
