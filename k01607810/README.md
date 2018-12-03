@@ -7,5 +7,14 @@ Pucking ist eine Marktgemeinde mit 3904 Einwohnern (Stand 1. Jänner 2018) im ob
 * In der Ortschaft Hasenufer befindet sich das Kraftwerk Traun-Pucking. Dieses Wasserkraftwerk ist das leistungsfähigste dieser Art der Energie AG Oberösterreich.
 * Ein örtliches Naherholungsgebiet stellt der Puckinger See dar, welcher östlich des Ortszentrums gelegen ist. In der Nähe des Puckinger Sees befindet sich auch ein Fußballplatz und ein Beachvolleyballplatz. [[1]]
 
+Deckenfresko der Filialkirche St. Leonhard bei Pucking [[2]]:
+
+![Deckenfresko der Filialkirche St. Leonhard bei Pucking](/k01607810/Filialkirche St. Leonhard.png)
+
+## Quellen
+
 [1]: https://de.wikipedia.org/wiki/Pucking
 \[1\]: <https://de.wikipedia.org/wiki/Pucking>
+
+[2]: https://commons.wikimedia.org/wiki/File:St._leonhard_pucking_-_c.cossa.jpg
+\[2\]: <https://commons.wikimedia.org/wiki/File:St._leonhard_pucking_-_c.cossa.jpg>
