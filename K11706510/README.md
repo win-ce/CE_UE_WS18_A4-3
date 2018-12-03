@@ -20,3 +20,5 @@ Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
 ## Heimatort
 
 Neuhofen an der Krems ist eine Marktgemeinde im Bezirk Linz-Land im oberösterreichischen Zentralraum mit 6269 (Stand 1. Jänner 2018) Einwohnern. Der zuständige Gerichtsbezirk ist der Gerichtsbezirk Traun.
+
+![Neuhofen](https://upload.wikimedia.org/wikipedia/commons/a/ae/Wappen_at_neuhofen_an_der_krems.png "Neuhofen")
