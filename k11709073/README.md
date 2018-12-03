@@ -16,3 +16,5 @@ Ansfelden erhielt am 27. September 1986 das Gemeindewappen und wurde am 25. Sept
 Bei der Jahrhundertflut von 2002 kam es in Kremsdorf zu einem Dammbruch im Bereich der Redersiedlung, wodurch diese teilweise 1,5 m überschwemmt wurde. Insgesamt wurden damals 20 % des Stadtgebiets überflutet.[6]
 
 Quelle https://de.wikipedia.org/wiki/Ansfelden
+
+https://upload.wikimedia.org/wikipedia/commons/4/40/Wappen_der_Gemeinde_Ansfelden.jpg
