@@ -9,7 +9,7 @@ Pucking ist eine Marktgemeinde mit 3904 Einwohnern (Stand 1. Jänner 2018) im ob
 
 Deckenfresko der Filialkirche St. Leonhard bei Pucking [[2]]:
 
-![Deckenfresko der Filialkirche St. Leonhard bei Pucking](Filialkirche St. Leonhard.jpg)
+![Deckenfresko der Filialkirche St. Leonhard bei Pucking](Filialkirche.jpg)
 
 ## Quellen
 
