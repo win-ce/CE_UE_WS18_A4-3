@@ -29,3 +29,5 @@ Der Gemeinderat besteht aus 31 Mitgliedern und setzt sich seit der Gemeinderatsw
 Bürgermeister ist Günter Engertsberger von der SPÖ.
 
 [Quelle](https://de.wikipedia.org/wiki/Neuhofen_an_der_Krems)
+
+![Die Kugel](https://imgur.com/a/YJEQNoJ)
