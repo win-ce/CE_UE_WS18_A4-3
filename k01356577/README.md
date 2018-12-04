@@ -24,3 +24,5 @@ war auch Begründer der Pöstlingberger Feuerwehr. In dieser Zeit wurde auch der
 wurde die Volksschule erbaut, 1903 wurde das Gemeindeamt in der heutigen Samhaberstraße 50 von Baumeister Johann Weixelbaumer errichtet (heute Feuerwehr).
 
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Pöstlingberg_(Stadtteil))
+
+![Bild von Linz](http://www.ywopikaf.com/Linz.jpg)
