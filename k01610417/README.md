@@ -35,5 +35,7 @@ Die Gemeinde besteht aus den Katastralgemeinden Entholzen, Glatzing, Kopfing und
 
 #Geschichte#  
 Seit Gründung des Herzogtums Bayern war der Ort bairisch. In Kopfing fanden die ersten Gefechte des Spanischen Erbfolgekrieges statt. Die kaiserlich-österreichischen Truppen überfielen im November 1703 den damals bayerischen Ort Kopfing. Die Kopfinger leisteten beherzte Gegenwehr und schossen aus dem Kirchturm (Wehrturm) heraus. Dieser Krieg zog sich dann bis zum Jahre 1706 dahin, am Ende stand die Schlacht von Höchstätt, die Sendlinger Mordweihnacht (München) und die Bauernschlacht von Aidenbach. Aidenbach ist heute neben Ringelai/Bayern die neue Partnergemeinde von Kopfing. Original Schanzgräben sowie alte Grenzsteine zeugen in Kopfing noch heute von dieser Vergangenheit. Kopfing kam nach dem Frieden von Teschen mit dem Innviertel (damals 'Innbaiern') zu Österreich. 1785 wurde Kopfing zur Pfarre erhoben. Während der Napoleonischen Kriege wieder kurz baierisch, gehört der Ort seit 1814 endgültig zu Oberösterreich. 1905 wurde die neue Pfarrkirche Kopfings fertiggestellt.  
+## Wappen
+![Wappen Kopfing] (C:\Users\veren\OneDrive\Documents\GitHub\CE_UE_WS18_A4-3\k01610417\Wappen.PNG)
 
 Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau. Nach 1945 erfolgte die Wiederherstellung Oberösterreichs.  
