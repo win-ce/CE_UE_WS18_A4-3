@@ -31,7 +31,7 @@ Das Gemeindegebiet umfasst folgende 22 Ortschaften (in Klammern Einwohnerzahl St
  
 
 ###  Wappen  
-  
+![Weibern](https://github.com/vkirnbauer/CE_UE_WS18_A4-3/blob/revision/k01153275/Weibern-wappen-Weibern-4675.png)  
 Blasonierung: Geteilt; oben in Rot eine goldene, stilisierte Krone, die unten auf der Teilungslinie in Form eines Doppelsturzsparrens, oben in den   Schildecken und zwischen diesen in der Mitte in Spitzen endet; unten von Blau und Silber mit zweieinhalb rechten Spitzen gespalten. Die Gemeindefarben sind Rot-Gelb-Blau.
   
 Die obere Hälfte des 1972 verliehenen Gemeindewappens zeigt ein   stilisiertes „W“ als Initiale des Ortsnamens, die blauen Spitzen stehen für die Herleitung des Namens, der „Weiher“ bedeutet (ahd. wiwari, aus lat. vivarium)
