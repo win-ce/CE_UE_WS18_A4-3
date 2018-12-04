@@ -45,7 +45,7 @@ Linz ist die **Hauptstadt** des Bundeslandes Oberoesterreich\. Damit ist die Sta
 ![Luftbild Linz](
 CE_UE_WS18_A4-3/k01018852/images/Linz_Luftbild.jpg
 )
-Bild: Luftaufnahme von Linz (Lizenz unter [GNU Free Documentation License](https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2)\Linz_Luftbild.jpg)
+Bild: Luftaufnahme von Linz (Lizenz unter [GNU Free Documentation License](https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2)\)
 
 
 
