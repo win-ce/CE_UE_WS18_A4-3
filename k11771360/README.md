@@ -12,3 +12,8 @@ Nach dem *Anschluss Österreichs an das Deutsche Reich am 13. März **1938** geh
 Im November **1943** wurde das **KZ Ebensee** als *Nebenlager des KZ Mauthausen* errichtet - mit dem Tarnnamen Projekt Zement, es diente der Verlegung der **Raketenversuchsanstalt** Peenemünde in eine bombengeschützte Umgebung. Von November 1943 bis Mai 1945 starben im KZ Ebensee 8.745 Häftlinge. Ende April 1945 gab es 18.437 Häftlinge in Ebensee. Die *Befreiung des Lagers* erfolgte am 6. Mai **1945** durch US-amerikanische Truppen. Im Zweiten Weltkrieg fielen 289 Ebenseer und weitere 90 wurden vermisst. Auf dem Gelände des Konzentrationslagers wurde *nach 1945 ein DP-Lager für jüdische „Displaced Persons“* eingerichtet.
 
 Text Auszüge von [Wikipedia](https://de.wikipedia.org/wiki/Ebensee_am_Traunsee)
+
+# Bild von Ebensee
+![Hochwasser in Ebensee](./hochwasser.jpg)
+
+*Hochwasser in Ebensee, aufgenommen **2013**.*
