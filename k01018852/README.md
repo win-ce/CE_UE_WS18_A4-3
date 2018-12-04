@@ -1,4 +1,4 @@
-#Beschreibung Wohnort - Linz
+# Beschreibung Wohnort - Linz
 
 Derzeit wohne ich, zu Studienzwecken, in Linz\. Linz ist die drittgroesste Stadt in Oesterreich\. 
 Der Link zur Stadt Linz ist: [Stadt Linz](http://www.linz.at)
