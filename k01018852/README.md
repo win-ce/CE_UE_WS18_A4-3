@@ -43,7 +43,7 @@ Linz ist die **Hauptstadt** des Bundeslandes Oberoesterreich\. Damit ist die Sta
 **Geschichtlich** gesehen, entstanden die ersten Siedlungen auf dem Stadtgebiet um ca\. 400 v\. Chr\. durch die Kelten\. Zur Befestigung des Flussuebergangs legten die Roemer spaeter, eine Festung an\. Diese wurde Lentia genannt\. Die Stadt blieb dann bis in die Neuzeit kontinuierlich Besiedelt\. Ein bedeutender Einschnitt in die Geschichte von Linz war sicher die Teilung der Stadt nach dem zweiten Weltkrieg durch die Besatzungsmaechte\. Die Besatzung bestand fuer Zehn Jahre bis 1955\.
 
 ![Luftbild Linz](
-CE_UE_WS18_A4-3/images/Linz.jpg
+Linz.jpg
 )
 Bild: Luftaufnahme von Linz (Lizenz unter [GNU Free Documentation License](https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2)\)
 
