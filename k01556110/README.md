@@ -14,6 +14,6 @@ Some facts:
 Nur wenn dieser Likör in Nußbach (OÖ) mit Nußbacher Walnüssen hergestellt wird, darf er die geschützte Gebietsbezeichnung Nußbacher Nußgeist tragen.
 
 
-
+![Nussgeist](nussgeist.jpg)
 
 *Quelle:* (https://de.wikipedia.org/wiki/Nu%C3%9Fbach_(Ober%C3%B6sterreich)  
