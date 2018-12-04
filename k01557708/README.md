@@ -25,3 +25,6 @@ Bürgermeister:	1989–2017 Franz Weissenböck (ÖVP)
 
 
 Quelle: https://de.wikipedia.org/wiki/St._Agatha_(Ober%C3%B6sterreich)
+
+![](Bild/St_Agatha.jpg)
+
