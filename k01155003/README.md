@@ -7,3 +7,6 @@ Die geografischen Koordinaten der Gemeinde Sattledt sind 48° 04′ 24" nördlic
 Sie liegt auf ca. 400 m. Der tiefste Punkt von Sattledt befindet sich am Aiterbach in der Nähe des Weilers Gold. 
 Dort befindet man sich auf 355 m, während man nahe Krugeldorf in einer Seehöhe von 451 Meter den höchsten Punkt der Gemeinde finden kann. 
 Das 22,15 km² umfassende Gemeindegebiet hat eine maximale Nord-Süd-Ausdehnung von 5,2 km und eine Ost-West-Ausdehnung von 5,9 km.
+
+**Ein Bild vom Gemeindeamt:** 
+![alt text](https://de.wikipedia.org/wiki/Sattledt#/media/File:Sattledt_Gemeindeamt_20111022.jpg "Gemeindeamt Sattledt")
