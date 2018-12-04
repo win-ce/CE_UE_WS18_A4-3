@@ -9,5 +9,5 @@ Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte
 
 Quelle: https://de.wikipedia.org/wiki/Sch%C3%B6nau_im_M%C3%BChlkreis
 
-![Schönau im Mühlkreis](k11712765/schoenau.jpg)
+![Schönau im Mühlkreis](schoenau.jpg)
 Quelle: http://www.schoenau-im.at/
