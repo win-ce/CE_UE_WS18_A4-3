@@ -1,18 +1,18 @@
-# CE_UE_WS18_A4-3
-Dieses Repository dient als Basis für die Aufgabe 4.3 in der Übung CE an der JKU in Wintersemester 2018
+﻿# Sankt_Agatha
+St. Agatha (auch Sankt Agatha) ist eine Gemeinde in Oberösterreich im Bezirk Grieskirchen im Hausruckviertel mit 2116 Einwohnern (Stand 1. Jänner 2018). 
+Die Gemeinde liegt im Gerichtsbezirk Eferding. 
 
-Wenn Sie diese Datei gefunden haben, haben Sie erfolgreich auf das Repository zugegriffen. Bevor Sie Änderungen vornehmen, erstellen Sie bitte einen Fork in Ihren Account (GitHub Web-Interface: Button rechts oben) und klonen das geforkte Repository auf Ihren Rechner.
+## Geografie
+St. Agatha liegt auf 603 m Höhe im Hausruckviertel. Die Ausdehnung beträgt von Nord nach Süd 7,0 km, von West nach Ost 8,4 km. 
+Die Gesamtfläche beträgt 31,8 km². 29,7 % der Fläche sind bewaldet, 65,3 % der Fläche werden landwirtschaftlich genutzt. 
 
-## Aufgabe
-Wenn Sie das Repository auf den eigenen lokalen Rechner geklont haben, erledigen Sie folgende Aufgaben:
-1. Erstellen Sie ein Verzeichnis, dessen Name ihre Matrikelnummer (8 Ziffern, mit führendem k) ist.
-2. Legen Sie in diesem Verzeichnis eine Datei mit dem Namen "README.md" an und bearbeiten Sie diese mit einem Plain-Text-Editor. Unter Verwendung der Markdown-Syntax beschreiben Sie kompakt (max. 500 Wörter) den Ort, in dem Sie wohnen. Texte dürfen aus anderen Quellen übernommen werden, sofern Sie diese in Ihrer Datei verlinken. 
-3. Committen Sie alle Änderungen in ihr lokales Repository.
-4. Erstellen Sie nun einen Branch mit dem Namen "revision".
-5. Checken Sie diesen Branch aus. 
-6. Binden Sie nun in ihr README.md mindestens ein Bild ein, dass Sie ebenfalls im Repository ablegen. Achten Sie bei der Übernahme von Bildern auf lizenzrechtliche Fragen (nur Bilder unter freier Lizenz oder selbst gemachte Bilder verwenden).
-7. Committen Sie erneut alle Änderungen.
-8. Mergen Sie nun den Branch "revision" mit dem ursprünglichen Branch (üblicherweise: "master"). Lösen Sie dabei etwaige Konflikte so auf, dass die Änderungen aus dem Branch "revision" übernommen werden.
-9. Pushen Sie ihr lokales Repository nun zu GitHub.
+## Geschichte
+Ursprünglich im Ostteil des Herzogtums Bayern liegend, gehörte der Ort seit dem 12. Jahrhundert zum Herzogtum Österreich. Seit 1490 wird er dem Fürstentum Österreich ob der Enns zugerechnet. Beim Oberösterreichischen Bauernkrieg des Jahres 1626 spielte der aus St. Agatha stammende Stefan Fadinger eine führende Rolle. Während der Napoleonischen Kriege war der Ort mehrfach besetzt. Seit 1918 gehört der Ort zum Bundesland Oberösterreich. Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum „Gau Oberdonau“. 1945 erfolgte die Wiederherstellung Oberösterreichs.
+St. Agatha war bis 1923 Teil des Gerichtsbezirkes Waizenkirchen und wurde nach dessen Auflösung dem Gerichtsbezirk Peuerbach zugeschlagen. Gleichzeitig wurde die Gemeinde aus dem Bezirk Eferding herausgelöst und Teil des Bezirks Grieskirchen. 
 
-Die Anweisungen zum weiteren Vorgehen finden Sie in der Übungsangabe.
+## Wappen
+Blasonierung: „In Silber zwischen vier roten, sechsstrahligen Sternen in den Ecken ein rotes Herz, aus dem oben in der Mitte an blauen Stengeln drei blaue, eins zu zwei stehende Vergissmeinnichtblüten mit goldenen Butzen wachsen.“
+Die Gemeindefarben sind Blau-Gelb-Rot.
+Das 1976 verliehene Gemeindewappen zeigt ein Motiv aus dem Siegel des Oberhauptmannes der aufständischen ob-der-ennsischen Bauern gegen die bayerische Pfandherrschaft 1626, Stefan Fadinger, der in St. Agatha auf dem Hof Fatting am Wald ansässig war. 
+
+![St_Agatha](C:\Users\Mario\Desktop\Wintersemester2018\CE\Aufgabe_12\CE_UE_WS18_A4-3\k01557708\St_Agatha.jpg "St_Agatha")
