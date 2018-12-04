@@ -41,3 +41,9 @@ Die Stadt Linz liegt an der **Donau**\. Der Fluss erfuellt fuer Linz viele Zweck
 Linz ist die **Hauptstadt** des Bundeslandes Oberoesterreich\. Damit ist die Stadt auch ein Verwaltungszentrum\. In der **Bildungsbereich** ist Linz fuer das Bundesland (u\.a\.) von grosser Bedeutung\. In der Stadt gibt es verschiedene Universitaeten, die groesste ist die [Johannes Kepler Universitaet](http://www.jku.at)\.
 
 **Geschichtlich** gesehen, entstanden die ersten Siedlungen auf dem Stadtgebiet um ca\. 400 v\. Chr\. durch die Kelten\. Zur Befestigung des Flussuebergangs legten die Roemer spaeter, eine Festung an\. Diese wurde Lentia genannt\. Die Stadt blieb dann bis in die Neuzeit kontinuierlich Besiedelt\. Ein bedeutender Einschnitt in die Geschichte von Linz war sicher die Teilung der Stadt nach dem zweiten Weltkrieg durch die Besatzungsmaechte\. Die Besatzung bestand fuer Zehn Jahre bis 1955\.
+
+![Luftbild Linz](C:\Users\HS\Documents\GitHub\CE_UE_WS18_A4-3\k01018852\)
+Bild: Luftaufnahme von Linz (Lizenz unter [GNU Free Documentation License](https://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2)\Linz_Luftbild.jpg)
+
+
+
