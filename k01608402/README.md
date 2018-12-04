@@ -1,3 +1,5 @@
+![](./bild.png)
+
 # Bad Hall (Steyr Land)
 
 ## [Geschichtliches](https://de.wikipedia.org/wiki/Bad_Hall)
@@ -22,3 +24,4 @@ Bad Hall wurde am 20. August 2001 von der Oberösterreichischen Landesregierung 
 - 1 Mandat BZÖ
 - Bürgermeister
 - seit 2015 Bernhard Ruf (ÖVP)
+
