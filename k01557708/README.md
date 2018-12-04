@@ -18,4 +18,4 @@ Das 1976 verliehene Gemeindewappen zeigt ein Motiv aus dem Siegel des Oberhauptm
 
 Quelle: https://de.wikipedia.org/wiki/St._Agatha_(Ober%C3%B6sterreich)
 
-![](Bild/Agatha.jpeg)
+![](Bild/Agatha.jpg)
