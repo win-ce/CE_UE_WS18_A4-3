@@ -9,4 +9,4 @@ Dort befindet man sich auf 355 m, während man nahe Krugeldorf in einer Seehöhe
 Das 22,15 km² umfassende Gemeindegebiet hat eine maximale Nord-Süd-Ausdehnung von 5,2 km und eine Ost-West-Ausdehnung von 5,9 km.
 
 **Ein Bild vom Gemeindeamt:** 
-![alt text](https://de.wikipedia.org/wiki/Sattledt#/media/File:Sattledt_Gemeindeamt_20111022.jpg "Gemeindeamt Sattledt")
+![](https://de.wikipedia.org/wiki/Sattledt#/media/File:Sattledt_Gemeindeamt_20111022.jpg )
